@@ -1,1 +1,26 @@
-
+html {
+    background-color: azure;
+}
+body {
+    font-family: 'Amethysta', serif;
+}
+h1 {
+    font-family: 'Abril Fatface', cursive;
+}
+h2 {
+    font-family: 'Permanent+Marker', cursive;
+}
+p {
+    font-size: .75em;
+    font-family: 'Amethysta', serif;
+}
+.discography {
+    font-family: 'Special Elite', cursive;
+    text-align: center
+}
+.discography h2 {
+    font-family: 'Permanent Marker', cursive;
+}
+table, th, td {
+  border: 1px solid gray;
+}
